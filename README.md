@@ -10,7 +10,7 @@ Preview
 
 ![image](https://user-images.githubusercontent.com/77867638/199789570-330c5f0b-ed4b-4eeb-bf3a-6ac26b42c137.png)
 
-#License
+# License
 
 MIT License
 
